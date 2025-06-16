@@ -1,5 +1,4 @@
 # Hei alle sammen 👋
-
 **Mohammed Ghazwan Almilhim • Fullstack utvikler basert i Norge**
 
 ---
