@@ -1,6 +1,6 @@
 ### Hei alle sammen 👋
 
-**Mohamemd Ghazwan Almilhim • Programvareutvikler basert i Norge**
+**Mohammed Ghazwan Almilhim • Fullstack utvikler basert i Norge**
 
 ---
 
