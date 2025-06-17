@@ -15,7 +15,6 @@
 
 ---
 
-## 💻 Teknologistabel
 ## Min Tech Stack
 [![Tech Stack Icons](https://skillicons.dev/icons?i=cs,java,kotlin,python,js,ts,react,vue,next,html,css,dotnet,nodejs,express,mysql,azure,firebase,postman,netlify,npm,figma)](https://skillicons.dev)
 
@@ -37,7 +36,7 @@
 
 ---
 
-## 🏅 GitHub Trofeer
+## 🏅 Mine GitHub-trofeer
 ![Troféer](https://github-profile-trophy.vercel.app/?username=MohammedGhazwanAlmilhim&theme=onestar&no-frame=true&no-bg=false&margin-w=4)  
 
 ---
