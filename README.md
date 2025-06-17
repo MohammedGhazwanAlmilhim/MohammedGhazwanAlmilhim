@@ -16,6 +16,10 @@
 ---
 
 ## 💻 Teknologistabel
+## Min Tech Stack
+[![Tech Stack Icons](https://skillicons.dev/icons?i=cs,java,kotlin,python,js,ts,react,vue,next,html,css,dotnet,nodejs,express,mysql,azure,firebase,mssql,postman,netlify,npm,figma)](https://skillicons.dev)
+
+
 - **Språk & rammeverk:** C#, Java, Kotlin, Python, JavaScript, TypeScript  
 - **Frontend:** React, Vue.js, Next.js, HTML5, CSS3  
 - **Backend & databaser:** .NET, Node.js, Express.js, MySQL, MS SQL Server, Firebase  
