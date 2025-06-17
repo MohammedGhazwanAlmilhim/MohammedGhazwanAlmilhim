@@ -28,6 +28,8 @@
 ![GitHub-aktivitet](https://github-readme-stats.vercel.app/api?username=MohammedGhazwanAlmilhim&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![Kode-streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedGhazwanAlmilhim&theme=dark&hide_border=true)  
 ![Mest brukte språk](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedGhazwanAlmilhim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedghazwanalmilhim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=30)
+
 
 ---
 
